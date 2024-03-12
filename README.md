@@ -48,9 +48,6 @@
   <a href="link-para-o-seu-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="link-para-o-seu-website">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=react&logoColor=white" alt="Website">
-  </a>
 </p>
 
 <p align="center">Vamos nos conectar e colaborar em alguns projetos incríveis juntos! 💻✨</p>
