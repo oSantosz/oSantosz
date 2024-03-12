@@ -55,6 +55,3 @@
 
 <p align="center">Vamos nos conectar e colaborar em alguns projetos incríveis juntos! 💻✨</p>
 
----
-
-<h2 align="center">Gráfico com HTML, CSS e JavaScript</h2>
