@@ -1,8 +1,8 @@
-### Fala meu amigo(a), Eu sou Thiago Santos 👋
+### Fala Devs!, Eu sou Thiago Santos 👋
 
 - 🔭 Hoje trabalho com frond-end, entrando no back-end
-- 🌱 EStudando JavaScript
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando JavaScript
+- 😄 Pronomes: ele/dele
 
 <h1 align="center">Olá, Eu sou Thiago! 👋</h1>
 
