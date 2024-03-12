@@ -1,6 +1,6 @@
 ### Fala meu amigo(a), Eu sou Thiago Santos 👋
 
-- 🔭 Hoje trabalho como fullstack
+- 🔭 Hoje trabalho com frond-end, entrando no back-end
 - 🌱 EStudando JavaScript
 - 😄 Pronouns: ele/dele
 
